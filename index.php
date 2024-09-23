@@ -15,7 +15,7 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Botões com PHP</title>
+    <title>Teste</title>
     <style>
         #flex{
             height: 100vh;
@@ -32,7 +32,6 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
             padding: 20px;
             text-align: center;
         }
-        
     </style>
 </head>
 <body>
